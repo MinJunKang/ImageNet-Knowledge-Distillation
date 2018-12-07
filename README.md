@@ -19,8 +19,7 @@ Tensorflow, keras
 windows 10, ubuntu linux
 
 # Result
-Resnet - 18's Training result : 
-<img src="https://user-images.githubusercontent.com/29685163/49656613-20093680-fa81-11e8-97fb-ecb63c1ed385.png" width = "675" height = "350">
+<img src="https://user-images.githubusercontent.com/29685163/49656613-20093680-fa81-11e8-97fb-ecb63c1ed385.png" width = "675" height = "350" title = "Resnet - 18's Training result :">
 
 MobileNet's Training result : 
 <img src="https://user-images.githubusercontent.com/29685163/49656474-cdc81580-fa80-11e8-8477-a5b31ab88e8c.png" width = "675" height = "350">
