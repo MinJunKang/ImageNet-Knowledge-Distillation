@@ -19,4 +19,4 @@ Tensorflow, keras
 windows 10, ubuntu linux
 
 # Result
-![Alt text](C:\Users\minjun\Desktop\그림.jpg?raw=true "Title")
+
