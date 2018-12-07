@@ -14,6 +14,7 @@ ImageNet Dataset : http://www.image-net.org/
 
 # Training Method
 We didn't used data augmentation technique(If there is time, try it!!)
+
 Stop Training if overfitting(validation set accuracy doesn't increase) happens more than 50 epochs
 
 # Programming Language
