@@ -1,8 +1,11 @@
 # ImageNet-Knowledge-Distillation
 Knowledge Distillation code with ImageNet dataset
 
-# Teacher model
+# Teacher Model
 Resnet 18 (you can change with 50 or others)
+
+# Student Model
+MobileNet or DNN(only got < 20% test accuracy)
 
 # Data
 ImageNet Dataset : http://www.image-net.org/
