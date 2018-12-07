@@ -1,5 +1,6 @@
 # ImageNet-Knowledge-Distillation
-Knowledge Distillation code with ImageNet dataset
+Knowledge Distillation with ImageNet dataset
+Paper : https://arxiv.org/abs/1503.02531
 
 # Teacher Model
 Resnet 18 (you can change with 50 or others)
