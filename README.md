@@ -13,8 +13,8 @@ MobileNet or DNN(only got < 20% test accuracy)
 ImageNet Dataset : http://www.image-net.org/
 
 # Training Method
-Not used data augmentation technique
-Ordinary training with max overfit 50
+We didn't used data augmentation technique(If there is time, try it!!)
+Stop Training if overfitting(validation set accuracy doesn't increase) happens more than 50 epochs
 
 # Programming Language
 Python 3.6
