@@ -19,7 +19,7 @@ Tensorflow, keras
 windows 10, ubuntu linux
 
 # Result
-https://user-images.githubusercontent.com/29685163/49656613-20093680-fa81-11e8-97fb-ecb63c1ed385.png
+![Test Image 1]https://user-images.githubusercontent.com/29685163/49656613-20093680-fa81-11e8-97fb-ecb63c1ed385.png
 
 https://user-images.githubusercontent.com/29685163/49656474-cdc81580-fa80-11e8-8477-a5b31ab88e8c.png
 
