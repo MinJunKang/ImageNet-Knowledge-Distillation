@@ -1,5 +1,6 @@
 # ImageNet-Knowledge-Distillation
-Knowledge Distillation with ImageNet dataset\n
+Knowledge Distillation with ImageNet dataset
+
 Paper : https://arxiv.org/abs/1503.02531
 
 # Teacher Model
